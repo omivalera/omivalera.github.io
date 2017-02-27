@@ -5,7 +5,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -416,6 +415,91 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #f19c17;
 }
+#ext_menu-1 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1 .close-icon::before,
+#ext_menu-1 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1 .link,
+#ext_menu-1 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1 .link {
+  font-size: 0.6rem;
+}
+#ext_menu-1 .dropdown-item,
+#ext_menu-1 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#ext_menu-1 .link:hover,
+#ext_menu-1 .dropdown-item:hover,
+#ext_menu-1 .link:focus,
+#ext_menu-1 .dropdown-item:focus {
+  color: #f19c17;
+}
+#ext_menu-1 .link[aria-expanded="true"],
+#ext_menu-1 .dropdown-menu {
+  background: #353434;
+}
+#ext_menu-1 .nav-dropdown-sm .link:focus,
+#ext_menu-1 .nav-dropdown-sm .link:hover,
+#ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
+  background: #474545!important;
+}
+#ext_menu-1 .navbar,
+#ext_menu-1 .nav-dropdown-sm,
+#ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1 .nav-dropdown-sm .dropdown-menu {
+  background: #4f4d4d;
+}
+#ext_menu-1 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1 .bg-color.transparent.opened .link:hover,
+#ext_menu-1 .bg-color.transparent.opened .link:focus {
+  color: #f19c17;
+}
+#ext_menu-1 .link[aria-expanded="true"],
+#ext_menu-1 .dropdown-item[aria-expanded="true"] {
+  color: #f19c17!important;
+}
+#slider3-9 H2 {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box1-u H3 {
+  text-align: right;
+  color: #f7931e;
+}
+#msg-box1-u SPAN {
+  text-align: center;
+}
+#features4-4 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#contacts2-t UL {
+  color: #ffffff;
+}
+
+
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -572,88 +656,4 @@ h6,
 #msg-box8-j .mbr-section-title,
 #msg-box8-j p {
   color: #fff;
-}
-
-#ext_menu-1 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-1 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-1 .close-icon::before,
-#ext_menu-1 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-1 .link,
-#ext_menu-1 .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-1 .link {
-  font-size: 0.6rem;
-}
-#ext_menu-1 .dropdown-item,
-#ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#ext_menu-1 .link:hover,
-#ext_menu-1 .dropdown-item:hover,
-#ext_menu-1 .link:focus,
-#ext_menu-1 .dropdown-item:focus {
-  color: #f19c17;
-}
-#ext_menu-1 .link[aria-expanded="true"],
-#ext_menu-1 .dropdown-menu {
-  background: #353434;
-}
-#ext_menu-1 .nav-dropdown-sm .link:focus,
-#ext_menu-1 .nav-dropdown-sm .link:hover,
-#ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #474545!important;
-}
-#ext_menu-1 .navbar,
-#ext_menu-1 .nav-dropdown-sm,
-#ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #4f4d4d;
-}
-#ext_menu-1 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-1 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1 .bg-color.transparent.opened .link:hover,
-#ext_menu-1 .bg-color.transparent.opened .link:focus {
-  color: #f19c17;
-}
-#ext_menu-1 .link[aria-expanded="true"],
-#ext_menu-1 .dropdown-item[aria-expanded="true"] {
-  color: #f19c17!important;
-}
-#slider3-9 H2 {
-  text-align: center;
-  font-size: 60px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box1-u H3 {
-  text-align: right;
-  color: #f7931e;
-}
-#msg-box1-u SPAN {
-  text-align: center;
-}
-#features4-4 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-4 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#contacts2-t UL {
-  color: #ffffff;
 }
