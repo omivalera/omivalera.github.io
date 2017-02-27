@@ -35,7 +35,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -112,7 +112,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoprometheus-1588x128.png",
               "height": 128,
               "alt": "",
-              "link": "HOME | PrometheusTech",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -174,7 +174,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"C:\\Users\\Prometheus\\Downloads\\DMJUMP SOFT\\DMSmart 1.0.0.3  PC.ra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"C:\\Users\\Prometheus\\Downloads\\DMJUMP SOFT\\DMJump_Setup_V2.3.2.rar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MAC</a>  "
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"LOL\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"LOL\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Mac OS</a>  "
               }
             ],
             "fullScreen": true,
@@ -395,7 +395,7 @@
       "settings": {
         "title": "DMJUMP",
         "meta_descr": "TECNOLOGIA PARA ENTRENADORES",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -509,7 +509,7 @@
           "_name": "header2",
           "_anchor": "header2-a",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "61",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dmjump-2000x2000.jpg",
@@ -548,7 +548,7 @@
           },
           "title": "¿QUE ES DMJUMP?",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEER MAS</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEER MAS</a> "
         },
         {
           "_styles": {
