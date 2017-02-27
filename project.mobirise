@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "SERVICIOSDIGITALES",
+    "currentPage": "TECNOLOGIAPARAENTRENADORES",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -266,7 +266,7 @@
               "name": "trophy",
               "family": "et-line",
               "active": true,
-              "link": "TECNOLOGIA PARA ENTRENADORES",
+              "link": "TECNOLOGIAPARAENTRENADORES",
               "size": 0,
               "color": "#faaf40",
               "newWindow": true
@@ -283,7 +283,7 @@
               "name": "tools",
               "family": "et-line",
               "active": true,
-              "link": "SERVICIOS DIGITALES",
+              "link": "SERVICIOSDIGITALES",
               "size": 0,
               "color": "#faaf40",
               "newWindow": true
@@ -481,7 +481,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -839,7 +839,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME#features4-4\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TECNOLOGIA PARA ENTRENADORES\" aria-expanded=\"false\">TECNOLOGIA PARA ENTRENADORES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">SERVICIOS TECNOLOGICOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERVICIO TECNICO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-t\">CONTACTO<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-0\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
